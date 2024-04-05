@@ -15,3 +15,7 @@ WINDOWS CMD Mac terminal AÇIN
 windows da klasörün olduğu dizin kısmına CMD yazıp enter basarsanız oto cmd gerekli dizinde çalışır
 
 kodları sırayla girin
+
+npm install
+
+node ./index.js
